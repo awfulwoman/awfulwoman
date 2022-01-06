@@ -2,7 +2,7 @@
 
 I used to be a frontend developer, but now I'm employed as a Platform Engineer. Weird world, huh?
 
-#simplicity #codeforgood #minimalviabletech #kubernetes #k3s #sre #mqtt #homeautomation #selfhosted #indieweb #zigbee #womanintech
+[#simplicity](https://github.com/topics/simplicity) [#codeforgood](https://github.com/topics/codeforgood) [#minimumviabletech](https://github.com/topics/minimumviabletech) [#kubernetes](https://github.com/topics/kubernetes) [#k3s](https://github.com/topics/k3s) [#sre](https://github.com/topics/sre) [#mqtt](https://github.com/topics/mqtt) [#homeautomation](https://github.com/topics/homeautomation) [#selfhosted](https://github.com/topics/selfhosted) [#indieweb](https://github.com/topics/indieweb) [#zigbee](https://github.com/topics/zigbee) [#womanintech](https://github.com/topics/womanintech)
 
 <!--
 **whalecoiner/whalecoiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
