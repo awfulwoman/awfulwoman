@@ -1,6 +1,6 @@
 # the code is hurting me
 
-pls send help
+I used to be a frontend developer, but now I'm employed as a Platform Engineer. Weird world, huh?
 
 <!--
 **whalecoiner/whalecoiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
