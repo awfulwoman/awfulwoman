@@ -2,6 +2,8 @@
 
 I used to be a frontend developer, but now I'm employed as a Platform Engineer. Weird world, huh?
 
+#kubernetes #k3s #sre #mqtt #homeautomation #selfhosted #indieweb #zigbee
+
 <!--
 **whalecoiner/whalecoiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
