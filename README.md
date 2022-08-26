@@ -1,6 +1,10 @@
-# the code is hurting me
+# Charlie O'Hara / @whalecoiner
 
-I used to be a frontend developer, but now I'm employed as a Platform Engineer. Weird world, huh?
+Ex frontend developer, now (allegedly) a platform engineer at a Big Company but let's face it, I spend most of my time updating spreadsheets and powerpoint presentations.
+
+I'm a sucker for Home Automation and Self-Hosting. Take a look at my [Home](https://github.com/whalecoiner/home) to see how I manage it all.
+
+Peace out.
 
 [#simplicity](https://github.com/topics/simplicity) [#codeforgood](https://github.com/topics/codeforgood) [#minimumviabletech](https://github.com/topics/minimumviabletech) [#kubernetes](https://github.com/topics/kubernetes) [#k3s](https://github.com/topics/k3s) [#sre](https://github.com/topics/sre) [#mqtt](https://github.com/topics/mqtt) [#homeautomation](https://github.com/topics/homeautomation) [#selfhosted](https://github.com/topics/selfhosted) [#indieweb](https://github.com/topics/indieweb) [#zigbee](https://github.com/topics/zigbee) [#womanintech](https://github.com/topics/womanintech)
 
