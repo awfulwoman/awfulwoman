@@ -1,6 +1,6 @@
 # Charlie O'Hara / @whalecoiner
 
-Ex frontend developer, now (allegedly) a platform engineer at a Big Company but let's face it, I spend most of my time updating spreadsheets and powerpoint presentations.
+Ex frontend developer, now (allegedly) a platform engineer at a Big Company but let's face it, I spend most of my work day updating spreadsheets and fiddling with presentations.
 
 I'm a sucker for Home Automation and Self-Hosting. Take a look at my [Home](https://github.com/whalecoiner/home) to see how I manage it all.
 
