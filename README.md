@@ -11,7 +11,7 @@ I used to be well into running my own website. But a bad falling out with the mo
 
 But time heals all wounds and now I'm trying to get back into the whole Indieweb thing.
 
-Sp far I have:
+So far I have:
 
 - ✅ The site [content](https://github.com/whalecoiner/site).
 - ✅ A [static site generator](https://github.com/whalecoiner/site) (it's the same repo).
@@ -19,7 +19,7 @@ Sp far I have:
 - ❌ A [Webmention](https://indieweb.org/Webmention) to git endpoint.
 - ❌ A [Micropub](https://indieweb.org/Micropub) to git [endpoint](https://indieweb.org/Micropub/Servers).
 
-Hopefully all of these will be
+
 
 [#simplicity](https://github.com/topics/simplicity) [#codeforgood](https://github.com/topics/codeforgood) [#minimumviabletech](https://github.com/topics/minimumviabletech) [#mqtt](https://github.com/topics/mqtt) [#homeautomation](https://github.com/topics/homeautomation) [#selfhosted](https://github.com/topics/selfhosted) [#indieweb](https://github.com/topics/indieweb) [#zigbee](https://github.com/topics/zigbee) [#womanintech](https://github.com/topics/womanintech)
 
