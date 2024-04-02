@@ -1,12 +1,16 @@
 # Charlie O'Hara / @whalecoiner
 
-Ex frontend developer, now (allegedly) a platform engineer at a Big Company but let's face it, I spend most of my work day updating spreadsheets and fiddling with presentations.
+Once a website builder, now a spreadsheet warrior. 
 
-I'm a sucker for Home Automation and Self-Hosting. Take a look at my [Home](https://github.com/whalecoiner/home) to see how I manage it all.
+I'm a sucker for home automation and self-hosting. Take a look at my [home infrastructure](https://github.com/whalecoiner/home) to see how I manage it all.
 
-Peace out.
+I'm trying to get back into building my own website - I'm trying to follow indieweb principles as I do so.
 
-[#simplicity](https://github.com/topics/simplicity) [#codeforgood](https://github.com/topics/codeforgood) [#minimumviabletech](https://github.com/topics/minimumviabletech) [#kubernetes](https://github.com/topics/kubernetes) [#k3s](https://github.com/topics/k3s) [#sre](https://github.com/topics/sre) [#mqtt](https://github.com/topics/mqtt) [#homeautomation](https://github.com/topics/homeautomation) [#selfhosted](https://github.com/topics/selfhosted) [#indieweb](https://github.com/topics/indieweb) [#zigbee](https://github.com/topics/zigbee) [#womanintech](https://github.com/topics/womanintech)
+- ✅ The site itself.
+- ❌ A [Webmention](https://indieweb.org/Webmention) to git endpoint.
+- ❌ A [Micropub](https://indieweb.org/Micropub) to git [endpoint](https://indieweb.org/Micropub/Servers).
+
+[#simplicity](https://github.com/topics/simplicity) [#codeforgood](https://github.com/topics/codeforgood) [#minimumviabletech](https://github.com/topics/minimumviabletech) [#mqtt](https://github.com/topics/mqtt) [#homeautomation](https://github.com/topics/homeautomation) [#selfhosted](https://github.com/topics/selfhosted) [#indieweb](https://github.com/topics/indieweb) [#zigbee](https://github.com/topics/zigbee) [#womanintech](https://github.com/topics/womanintech)
 
 <!--
 **whalecoiner/whalecoiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
