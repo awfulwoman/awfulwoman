@@ -19,6 +19,7 @@ So far I have:
 - ❌ A [Webmention](https://indieweb.org/Webmention) to git endpoint.
 - ❌ A [Micropub](https://indieweb.org/Micropub) to git [endpoint](https://indieweb.org/Micropub/Servers).
 - ❌ A [webmention sender](https://aaronparecki.com/2018/06/30/11/your-first-webmention) (and a way to remember what webmentions have been sent).
+- ❌ A way to push posts or post announcements to Mastodon.
 
 
 
