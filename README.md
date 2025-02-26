@@ -2,7 +2,7 @@
 
 Once a website builder, now a spreadsheet warrior for an engineering infrastructure department. 
 
-I'm a sucker for home automation and self-hosting. Take a look at my [home infrastructure](https://github.com/awfulwoman/home) to see how I manage it all.
+I'm a sucker for home automation and self-hosting. Take a look at my [home infrastructure](https://github.com/awfulwoman/infra) to see how I manage it all.
 
 
 [#simplicity](https://github.com/topics/simplicity) [#codeforgood](https://github.com/topics/codeforgood) [#minimumviabletech](https://github.com/topics/minimumviabletech) [#mqtt](https://github.com/topics/mqtt) [#homeautomation](https://github.com/topics/homeautomation) [#selfhosted](https://github.com/topics/selfhosted) [#indieweb](https://github.com/topics/indieweb) [#zigbee](https://github.com/topics/zigbee) [#womanintech](https://github.com/topics/womanintech)
